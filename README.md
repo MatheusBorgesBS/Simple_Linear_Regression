@@ -19,7 +19,7 @@ This repository contains a basic **Simple Linear Regression** project using Pyth
   - A `y_test` vs `y_pred` plot with the identity line `y = x` for reference
 
 ## 📎 Example plot
-![Regression plot](example_plot.png)
+![Regression plot](linear_regression.png)
 
 ## 🚀 How to run
 Clone this repository and open the notebook:
