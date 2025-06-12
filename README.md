@@ -1,5 +1,6 @@
 # 📈 Simple Linear Regression - Salary vs Experience
 
+
 This repository contains a basic **Simple Linear Regression** project using Python, applied to the relationship between **years of experience** and **salary**. The goal is to predict salaries based on experience using a linear model, with visualizations and evaluation plots.
 
 ## 🧠 Technologies & Libraries
